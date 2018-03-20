@@ -1,2 +1,5 @@
 # gopl-pdf
-the go programming language all errata fixed pdf
+golang bible
+the go programming language.pdf
+all errata fixed
+with bookmarks
